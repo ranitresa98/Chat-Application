@@ -1,4 +1,4 @@
-# sns-chat-application
+# chat-application
 
 ### About the Project
 It is an end to end messaging system like Whatsapp . It is a multiclient chat application with a server component. One user can send text messages ,files,JPEG to other individuals as well as in the groups.The message is encrypted using the Triple DES and key will be Diffe-Hellman key type exchange between clients.
@@ -25,8 +25,9 @@ It is an end to end messaging system like Whatsapp . It is a multiclient chat ap
 
 ### Implementation
 ### Server side address highlighted, active connection status shown, client side activity result displayed - ![alt text](https://github.com/nayanika0208/sns-chat-application/blob/master/6.png)
-### User Creation  ![alt text](https://github.com/nayanika0208/sns-chat-application/blob/master/1.png)
-### User Validation  ![alt text](https://github.com/nayanika0208/sns-chat-application/blob/master/2.png)
-### User Joining Group and Listing Groups  ![alt text](https://github.com/nayanika0208/sns-chat-application/blob/master/3.png)
-### Sending File to Group  ![alt text](https://github.com/nayanika0208/sns-chat-application/blob/master/4.png)
-### Sending Image to User  ![alt text](https://github.com/nayanika0208/sns-chat-application/blob/master/5.png)
+### User Creation  ![alt text](https://github.com/ranitresa98/Chat-Application/blob/cdbc4ceb4fcc111c5b5ab2afbd50578bc9378652/1.png)
+### User Validation  ![alt text](https://github.com/ranitresa98/Chat-Application/blob/cdbc4ceb4fcc111c5b5ab2afbd50578bc9378652/2.png)
+### User Joining Group and Listing Groups  ![alt text](https://github.com/ranitresa98/Chat-Application/blob/cdbc4ceb4fcc111c5b5ab2afbd50578bc9378652/3.png)
+### Sending File to Group  ![alt text](https://github.com/ranitresa98/Chat-Application/blob/cdbc4ceb4fcc111c5b5ab2afbd50578bc9378652/4.png)
+### Sending Image to User  ![alt text](https://github.com/ranitresa98/Chat-Application/blob/cdbc4ceb4fcc111c5b5ab2afbd50578bc9378652/5.png)
+
